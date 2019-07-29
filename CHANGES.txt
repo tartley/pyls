@@ -1,0 +1,11 @@
+v0.1.3
+    Fix pip install crash on machines without py2exe installed
+v0.1.2
+    Fix Cheese Shop (PyPI) issues
+v0.1.1
+    Fix Cheese Shop (PyPI) issues
+v0.1
+    Initial release.
+    Windows only. Python 2.7 only.
+    Lists packages, modules, classes
+

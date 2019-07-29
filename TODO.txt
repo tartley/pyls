@@ -1,0 +1,24 @@
+TODO
+
+* only conditionally update setup config with py2exe
+* roll that back upstream to python-project-template
+* how to make it easier to roll changes back upstream to p-p-template?
+* accept command line directories specified as relative dirs (e.g. '..')
+* nicer output for no args in directories with no packages or modules
+* List module-level functions too.
+* classes and functions exposed by a package (i.e. imported or defined in
+  __init__.py) should show up in the output
+* Test on Ubuntu
+* Pester someone to test on a Mac for me
+* Python 3
+* Some way to differentiate classes from functions?
+  e.g. func() or "def func()" and "class ClassA" ?)
+* compact mode, that lists classes in a module on the same line?
+* optional colored output?
+
+
+DONE
+
+* Initial release
+* fix crash when pip installing on a machine that doesn't have py2exe installed
+
