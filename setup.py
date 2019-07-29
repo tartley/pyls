@@ -20,7 +20,7 @@ def main():
     config.update(dict(
         author='Jonathan Hartley',
         author_email='tartley@tartley.com',
-        url='http://bitbucket.org/tartley/pyls',
+        url='https://github.com/tartley/pyls',
         license='New BSD License',
     ) )
 
